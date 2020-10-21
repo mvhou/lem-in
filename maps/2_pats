@@ -1,0 +1,28 @@
+30
+#hoi
+##start
+start 12 3
+##end
+end 11 4
+#kamers
+b 3 4
+g 5 6
+c 1 2
+f 1 1
+w 12 12
+d 6 6
+a 3 3
+e 100 100
+#bbbbb
+e-end
+f-end
+end-d
+d-w
+start-a
+start-b
+start-c
+b-e
+c-g
+g-e
+w-b
+#links
