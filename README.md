@@ -41,3 +41,6 @@ b-e
 c-g
 g-e
 w-b
+
+##Output
+The output of the program is the contents of the map file, followed by the movements of the ants.
