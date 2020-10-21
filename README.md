@@ -17,7 +17,8 @@ All map files contain:
 * Any number of links between nodes, written in the following format: `node_name1-node_name2` (for example `room_1-room_2`)
 
 An example of a complete map:
-```30
+```
+30
 ##start
 start 12 3
 ##end
@@ -41,3 +42,4 @@ b-e
 c-g
 g-e
 w-b
+```
